@@ -1,0 +1,11 @@
+mixins/
+node_modules/
+result/
+libs/js/*.js
+libs/css/*.css
+jade/*.jade
+sass/*.scss
+sass/*.sass
+scripts/*.js
+bower.json
+bower_components/
